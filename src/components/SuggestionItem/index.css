@@ -1,0 +1,14 @@
+.arrow {
+  margin-top: 20px;
+  height: 20px;
+  width: 20px;
+}
+
+.eachSuggestion {
+  display: flex;
+  flex-direction: row;
+}
+
+.suggestionName {
+  height: 20px;
+}

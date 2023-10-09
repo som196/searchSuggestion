@@ -1,0 +1,28 @@
+.googleLogo {
+  height: 100px;
+  width: 340px;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30vh;
+}
+
+.searchIcon {
+  height: 25px;
+  width: 25px;
+}
+
+.list-container {
+  list-style: none;
+}
+
+.searchListContainer {
+  box-shadow: 0px 4px 16px 0px;
+  width: 300px;
+  border-radius: 12px;
+  margin-top: 24px;
+}
